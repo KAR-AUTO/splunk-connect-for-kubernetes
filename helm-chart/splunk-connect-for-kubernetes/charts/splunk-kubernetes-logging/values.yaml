@@ -373,7 +373,7 @@ customMetadata:
 #     type: jq_transformer
 #     body: jq '.record.cluster_name = "my_awesome_cluster" | .record'
 # ```
-customFilters: {}
+# customFilters: {}
 
 #
 # You can find more information on indexed fields here - http://dev.splunk.com/view/event-collector/SP-CAAAFB6
